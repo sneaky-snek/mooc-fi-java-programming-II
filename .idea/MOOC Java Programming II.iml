@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/part11-Part11_11.ValidatingParameters/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_03.Warehousing" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_04.DifferentKindsOfBoxes" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_05.TacoBoxes" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_07.ListAsAMethodParameter" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_06.InterfaceInABox" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_08.MapAsAMethodParameter" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_10.OnlineShop" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_09.SetAsMethodParameter" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_11.Herds" />
+      <excludeFolder url="file://$MODULE_DIR$/part09-Part09_12.Animals" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_01.AverageOfNumbers" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_02.AverageOfSelectedNumbers" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_04.Divisible" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_03.PositiveNumbers" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_05.PrintingUserInput" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_06.LimitedNumbers" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_07.UniqueLastNames" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_08.Weighting" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_09.ReadingFilesPerLine" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_10.BooksFromFile" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_11.WageOrder" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_12.StudentsOnAlphabeticalOrder" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_13.LiteracyComparison" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_14.Literature" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_15.RegularExpressions" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_16.EnumAndIterator" />
+      <excludeFolder url="file://$MODULE_DIR$/part10-Part10_17.SortThemCards" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_01.Customer" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_02.ABookAndAPlane" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_03.ShowAndTicket/src/main/java" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_04.StudentAndUniversity" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_05.ThePlayerAndTheBot" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_06.SaveablePerson" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_07.BiggerClassDiagram" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_08.FirstPackages" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_09.TheThreePackages" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_10.FlightControl" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_11.ValidatingParameters" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_12.SensorsAndTemperature" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_13.SaveableDictionary" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_01.Hideout" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_02.Pipe" />
+      <excludeFolder url="file://$MODULE_DIR$/part11-Part11_03.ShowAndTicket" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_03.SumTheseForMe" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_04.List" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_05.HashMap" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_06.Numbers" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_07.Die" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_08.Lottery" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_09.ArrayAsAString" />
+      <excludeFolder url="file://$MODULE_DIR$/part12-Part12_10.MagicSquare" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_01.MyFirstApplication" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_02.ButtonAndLabel" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_03.ButtonAndTextField" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_04.BorderPane" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_05.TextStatistics" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_06.Notifier" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_07.TextStatisticsPart2" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_08.UserTitle" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_10.Greeter" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_09.MultipleViews" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_11.Joke" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_12.VocabularyPractice" />
+      <excludeFolder url="file://$MODULE_DIR$/part13-Part13_13.TicTacToe" />
+      <excludeFolder url="file://$MODULE_DIR$/part14-Part14_01.Shanghai" />
+      <excludeFolder url="file://$MODULE_DIR$/part14-Part14_02.FinnishParties" />
+      <excludeFolder url="file://$MODULE_DIR$/part14-Part14_03.SavingsCalculator" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="javafx" level="project" />
+    <orderEntry type="library" exported="" name="javafx19" level="application" />
+  </component>
+</module>
